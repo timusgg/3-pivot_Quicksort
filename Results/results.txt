@@ -1,0 +1,7 @@
+These are the results after executing the array on different array sizes.
+
+Machine Description:-
+
+Processor :- i5-3230M
+OS :- Ubuntu 20.04 LTS
+RAM :- 4GB
